@@ -1,4 +1,0 @@
-run the command in termninal
-step 1: npm install
-step 2: node start
-step 3: npm start
